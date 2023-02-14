@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science with Python**
 
-- 👨‍💻 All of my projects are available at [https://connectit000.000webhostapp.com/himanshu/projects.html#projects](https://connectit000.000webhostapp.com/himanshu/projects.html#projects)
+- 👨‍💻 All of my projects are available at [https://connectit000.000webhostapp.com/himanshu/index.php#projects](https://connectit000.000webhostapp.com/himanshu/index.php#projects)
 
 - 📝 I regularly write articles on [https://connectit000.000webhostapp.com/himanshu](https://connectit000.000webhostapp.com/himanshu)
 
