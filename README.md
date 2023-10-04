@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Prajapati</h1>
-<h3 align="center">A final year BCA student with a passion of technology</h3>
+<h4 align="center">Pursuing MCA. Oh, its is just a delightful walk in the park, a gentle stroll through the enchanted forest of coding concepts. It's not like I'm preparing for a battle with syntax errors and debugging dragons or anything</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0072&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0072" /> </p>
 
