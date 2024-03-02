@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Real Time Action Detection](https://github.com/himanshu0072/real-time-webapp)
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently learning **OmniKart - the end of e-commerce**
 
 - 👨‍💻 All of my projects are available at [https://connectit000.000webhostapp.com/himanshu/projects.html#projects](https://connectit000.000webhostapp.com/himanshu/projects.html#projects)
 
