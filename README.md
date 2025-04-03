@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/himanshupr07" target="blank"><img src="https://img.shields.io/twitter/follow/himanshupr07?logo=twitter&style=for-the-badge" alt="himanshupr07" /></a> </p>
 
-- 🔭 I’m currently working on [Omnikart](https://github.com/himanshu0072/omnikart)
+- 🔭 I’m currently working on [Omnikart](https://omnikart.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
